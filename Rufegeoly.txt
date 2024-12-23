@@ -1,0 +1,6 @@
+Players_count: 2
+Name: Giorgos Money: 10000 Expenses: 0 Alive: true Square: 0 LifeVest: false Stay: 0
+Name: Mitsos Money: 10000 Expenses: 0 Alive: true Square: 0 LifeVest: false Stay: 0
+Name: Mafia_Bank Money: 0
+Name: NGO_Bank Money: 10000
+Player: 1 turn
