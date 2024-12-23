@@ -1,0 +1,1 @@
+The programm works as itented with minimal issues. The most important is that i failed to find a way ot make the multiple choice square to work. Also, you might find some unneseccary complicated methods which are a result of the limitations that were given to me.
